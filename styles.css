@@ -28,9 +28,9 @@ body {
 
 .startBtn {
   font-family: 'Press Start 2P', cursive;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin: 2px;
-  display: flex;
+  display: inline-flex;
   height: 50px;
   width: 200px;
   border: 10px solid black;
